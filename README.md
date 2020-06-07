@@ -5,9 +5,9 @@
 The following report presents the results of the analysis of 249 mice identified with SCC tumor growth. The animals were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
 ## Study Results
-* Capomulin and Ramicane have postive results on reducing the tumor volume in 45 days. It is assumed that both regimens have high rate of survival as mice count is maintained high during the study. Capomulin maintains highest mice count during the study.
+* Capomulin and Ramicane have postive results on reducing the tumor volume in 45 days. It is assumed that both regimens have high rate of survival as mice count is maintained high during the study. Capomulin maintains the highest mice count during the study.
 Assumption needs to be confirmed by the lab technicians performing the tests.
-* Infubinol and Ceftamin did not have good treatment results becaue tumor volume increased for the mice in the study.
+* Ceftamin, Infubinol, Ketapril, Naftisol, Placebo, Propriva, Stelasyn and Zoniferol did not have good treatment results because mice tumor volume increased during the study.
 * There is a positive correlation between the Tumor volume and the weight of the mice, the heavier the mice the larger the tumor.
 
 
@@ -18,7 +18,7 @@ The 1893 test data points received were checked for quality. Mice with ID g989 w
 ![Table1](Images/table1.jpg)
 
 ### Summary Statistics
-The following table presents the statistics of the tumor volume in mm3 for each regimen.
+The following table presents the statistics of the tumor volume in mm3 for each regimen. Capomulin and Ramicane have the lower Tumor Volume median, below the starting Tumor volume of 45mm3. All the rest of the treatments have Tumor volume medians higher than 45mm3.
 ![Table2](Images/table2.jpg)
 
 ### Bar Plots
@@ -37,7 +37,7 @@ The box plots below show the Tumor Volume in mm3 for the 4 regimens, for the las
 ![Figure3](Images/Fig3.png)
 
 ### Line and Scatter Plots
-Line plots are generated for any mice under Capomulin regimen. All plots show how reduction of Tumor Volume over time, as shown in the figure below for mouse y793.
+Line plots are generated for any mice under Capomulin regimen, to check on Tumor volume over time. The plot below shows reduction of Tumor Volume over time for mouse y793.
 
 ![Figure4](Images/Fig4.png)
 
