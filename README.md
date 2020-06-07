@@ -9,3 +9,6 @@ The following report presents the results of the analysis of 249 mice identified
 
 ## Detailed Analysis
 
+### Data Quality
+The data received was cheked for quality. Mice with ID g989 was found to have duplicate measurements at the same time points. The data presented in the table below was discarded.
+![Table1](Images/table1.jpg)
