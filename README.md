@@ -29,5 +29,6 @@ The distribution by gender of the mice in the study is equivalent. Half of the m
 ### ## Quartiles, Outliers and Boxplots
 Four regimens of interest were reviewed with more detail: Capomulin, Ramicane, Infubinol and Ceftamin.
 The box plots below show the Tumor Volume in mm3 for the 4 regimens, for the last reading of the treatment of each mice. All the mice started with a Tumor Volume of 45mm3. Both Capomulin and Ramicane have reduced the tumor volume of the mice. Ramicane has a lower median of 36mm3 compared to 38mm3 from Capomulin. Both Infubinol and Ceftamin have mice tumor volume increase in their results.
+
 ![Figure3](Images/Fig3.png)
 
