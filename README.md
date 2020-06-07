@@ -15,10 +15,12 @@ Assumption needs to be confirmed by the lab technicians performing the tests.
 
 ### Data Quality
 The 1893 test data points received were checked for quality. Mice with ID g989 was found to have duplicate measurements at the same time points. The 5 data points presented in the table below were discarded. 1888 test data points represent the clean dataset.
+
 ![Table1](Images/table1.jpg)
 
 ### Summary Statistics
 The following table presents the statistics of the tumor volume in mm3 for each regimen. Capomulin and Ramicane have the lower Tumor Volume median, below the starting Tumor volume of 45mm3. All the rest of the treatments have Tumor volume medians higher than 45mm3.
+
 ![Table2](Images/table2.jpg)
 
 ### Bar Plots
