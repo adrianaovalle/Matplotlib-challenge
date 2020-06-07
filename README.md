@@ -5,6 +5,10 @@
 The following report presents the results of the analysis of 249 mice identified with SCC tumor growth. The animals were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
 ## Study Results
+* Capomulin and Ramicane have postive results on reducing the tumor volume in 45 days. It is assumed that both regimens have high rate of survival as mice count is maintained high during the study. Capomulin maintains highest mice count during the study.
+Assumption needs to be confirmed by the lab technicians performing the tests.
+* Infubinol and Ceftamin did not have good treatment results becaue tumor volume increased for the mice in the study.
+* There is a positive correlation between the Tumor volume and the weight of the mice, the heavier the mice the larger the tumor.
 
 
 ## Detailed Analysis
@@ -38,3 +42,5 @@ Line plots are generated for any mice under Capomulin regimen. All plots show ho
 ![Figure4](Images/Fig4.png)
 
 A positive correlation was developed for mice weight against Tumor volume. The r^2 is 0.71 indicating a fair correlation: tumor volume increases as the weight of the mice increase.
+
+![Figure5](Images/Fig5.png)
