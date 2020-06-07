@@ -19,4 +19,9 @@ The following table presents the statistics of the tumor volume in mm3 for each 
 
 ### Bar Plots
 The following bar plot presents the number of mice per time point for each treatment.
+It is noted that the number of mice reduces as the days pass. One assumption is that mice do not survive the tumor. The treatment of study Capomulin maintains the number of mice high accross the study, followed by Ramicane. The other treatments have count mice redutcion along the study.
 ![Figure1](Images/Fig1.png)
+
+### Pie Plots
+The distribution by gender of the mice in the study is equivalent. Half of the mice are female and the other half are males.
+![Figure2](Images/Fig2.png)
