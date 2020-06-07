@@ -33,5 +33,8 @@ The box plots below show the Tumor Volume in mm3 for the 4 regimens, for the las
 ![Figure3](Images/Fig3.png)
 
 ### Line and Scatter Plots
-Scatter plots are generated for any mice under Capomulin regimen. All plots show how reduction of Tumor Volume over time, as shown in the fugure below.
+Line plots are generated for any mice under Capomulin regimen. All plots show how reduction of Tumor Volume over time, as shown in the figure below for mouse y793.
+
 ![Figure4](Images/Fig4.png)
+
+A positive correlation was developed for mice weight against Tumor volume. The r^2 is 0.71 indicating a fair correlation: tumor volume increases as the weight of the mice increase.
