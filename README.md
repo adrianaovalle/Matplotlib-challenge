@@ -43,6 +43,6 @@ Line plots are generated for any mice under Capomulin regimen, to check on Tumor
 
 ![Figure4](Images/Fig4.png)
 
-A positive correlation was developed for mice weight against Tumor volume. The r^2 is 0.71 indicating a fair correlation: tumor volume increases as the weight of the mice increase.
+A positive correlation was developed for mice weight against Tumor volume. The r^2 is 0.71 indicating a fair correlation: tumor volume increases as the weight of the mice increases.
 
 ![Figure5](Images/Fig5.png)
