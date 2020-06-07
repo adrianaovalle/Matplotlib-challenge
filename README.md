@@ -9,6 +9,7 @@ The following report presents the results of the analysis of 249 mice identified
 Assumption needs to be confirmed by the lab technicians performing the tests.
 * Ceftamin, Infubinol, Ketapril, Naftisol, Placebo, Propriva, Stelasyn and Zoniferol did not have good treatment results because mice tumor volume increased during the study.
 * There is a positive correlation between the Tumor volume and the weight of the mice, the heavier the mice the larger the tumor.
+* It is recommended to add to the analysis the other available variables (age and Metastatic Sites) to check on potential additional conclusions.
 
 
 ## Detailed Analysis
