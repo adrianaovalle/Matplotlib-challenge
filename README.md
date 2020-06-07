@@ -16,3 +16,7 @@ The 1893 test data points received were checked for quality. Mice with ID g989 w
 ### Summary Statistics
 The following table presents the statistics of the tumor volume in mm3 for each regimen.
 ![Table2](Images/table2.jpg)
+
+### Bar Plots
+The following bar plot presents the number of mice per time point for each treatment.
+![Figure1](Images/Fig1.png)
