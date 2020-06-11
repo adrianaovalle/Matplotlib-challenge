@@ -9,6 +9,7 @@ The following report presents the results of the analysis of 249 mice identified
 Assumption needs to be confirmed by the lab technicians performing the tests.
 * Ceftamin, Infubinol, Ketapril, Naftisol, Placebo, Propriva, Stelasyn and Zoniferol did not have good treatment results because mice tumor volume increased during the study.
 * There is a positive correlation between the Tumor volume and the weight of the mice, the heavier the mice the larger the tumor.
+* It is recommended to add to the analysis the other available variables (age and Metastatic Sites) to check on potential additional conclusions.
 
 
 ## Detailed Analysis
@@ -34,9 +35,13 @@ The distribution by gender of the mice in the study is equivalent. Half of the m
 
 ### Quartiles, Outliers and Boxplots
 Four regimens of interest were reviewed with more detail: Capomulin, Ramicane, Infubinol and Ceftamin.
-The box plots below show the Tumor Volume in mm3 for the 4 regimens, for the last reading of the treatment of each mice. All the mice started with a Tumor Volume of 45mm3. Both Capomulin and Ramicane have reduced the tumor volume of the mice. Ramicane has a lower median of 36mm3 compared to 38mm3 from Capomulin. Both Infubinol and Ceftamin have mice tumor volume increase in their results.
+The box plots below show the Tumor Volume in mm3 for the 4 regimens, for the last reading of the treatment of each mice. All the mice started with a Tumor Volume of 45mm3. Both Capomulin and Ramicane have reduced the tumor volume of the mice. Ramicane has a lower median of 36.56mm3 compared to 38.12mm3 from Capomulin. Both Infubinol and Ceftamin have mice tumor volume increase in their results.
 
 ![Figure3](Images/Fig3.png)
+
+The table below summarizes the results of the boxplots.
+
+![Table3](Images/table4.jpg)
 
 ### Line and Scatter Plots
 Line plots are generated for any mice under Capomulin regimen, to check on Tumor volume over time. The plot below shows reduction of Tumor Volume over time for mouse y793.
